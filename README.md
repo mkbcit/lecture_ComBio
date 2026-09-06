@@ -87,7 +87,7 @@ Each lesson folder may contain:
 ### Option 1: Clone the repository
 
 ```bash
-git clone https://github.com/USERNAME/computational-biology-bioinformatics-course.git
+git clone https://github.com/mkbcit/lecture_ComBio.git
 cd computational-biology-bioinformatics-course
 ```
 
